@@ -59,8 +59,7 @@ namespace ConsoleCalculator
                 {
                     Console.WriteLine("shecdoma! gtqovt sheiyvanot swori ricxvi.");
                     continue;
-                }
-
+               
                 Console.Write("airchiet operacia (+, -, *, /): ");
                 string op = Console.ReadLine();
 
